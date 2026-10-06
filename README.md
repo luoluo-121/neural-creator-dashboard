@@ -1,5 +1,14 @@
 # Neural Creator Dashboard · 创作神经网络看板
 
+[![Release 发布包下载次数](https://img.shields.io/github/downloads/luoluo-121/neural-creator-dashboard/total?label=Release%20downloads)](https://github.com/luoluo-121/neural-creator-dashboard/releases)
+
+**[下载最新版完整源码与 Skill 包 ZIP](https://github.com/luoluo-121/neural-creator-dashboard/releases/latest/download/neural-creator-dashboard.zip)** · [查看版本与附件](https://github.com/luoluo-121/neural-creator-dashboard/releases/latest)
+
+下载后解压，进入 `neural-creator-dashboard` 文件夹，按下方「快速开始」安装依赖并运行。这是源码与 Skill 包，不是免安装的桌面软件。
+
+下载统计来自 GitHub Release 附件的 `download_count`，累计范围为此仓库所有 Release 附件；不包含普通 `Code → Download ZIP`、`git clone`、`npx skills add` 或网盘转发。重复下载与维护者测试下载也可能计入，不等于人数或成功安装数，徽章可能有缓存延迟。当前只提供一个 ZIP 附件，后续统计时应区分不同附件，避免把校验文件下载当成软件安装。
+
+
 > **使用许可：学习与非商业使用。** 当前授权政策为 [PolyForm Noncommercial 1.0.0](LICENSE)，不授予商业使用权限。商业使用需另行授权。这是源码公开项目，不是允许任意商业使用的开源许可。
 > **历史例外：** 0.1.0 曾以 MIT 发布，旧版已授出的权利不受影响，包括其中未变更的代码。详见 [授权说明](NOTICE.md)。
 
