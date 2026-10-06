@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.vite/
+# 导入的个人笔记数据，不要提交
+src/data/my-data.js
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
